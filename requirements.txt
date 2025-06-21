@@ -1,0 +1,14 @@
+fastapi==0.111.*
+uvicorn[standard]==0.29.*
+scrapy==2.11.*
+SQLAlchemy==2.0.*
+psycopg2-binary
+alembic
+pandas
+orjson
+apscheduler
+pytest
+python-dotenv
+python-slugify
+beautifulsoup4
+lxml 
